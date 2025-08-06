@@ -1,0 +1,31 @@
+# Git Commands
+- **git init** will create a new local repository for you.
+
+- **git add** adds one or more files to staging. You can either detail a specific file to add to staging or add all changes files by typing **git add**.
+
+- **git commit** commits your changes to the repository. Commits must always be accompanied by the **-m** flag and commit message.
+
+- **git status** tells you what branch are you currently on and whether you have changes to commit or not.
+
+- **git diff** allows you to view the differences between the branch you're currently in and another
+
+- **git log** lists all previous commits you've done in the repo.
+
+- **git push** uploads your committed changes to your remote repository.
+
+- **git clone** allows you to clone (copy) a repository into the directory you're currently in. Keep in mind you can done both remote repositories \(in GitHub, GitLab, and so on) and local repositories \(those that are stored in your computer).
+
+- **git pull** pulls \(downloads) the code from your remote repository and combines it with your local repo. This is particularly useful when workign in teams, when many developers are working on the same code base. In this case each developer periodically pulls from the remote repo in order to work in a code base that includes the changes done by all the other devs.
+
+- **git checkout** moves you from one branch to another. It takes your destination branch as a  parameter.
+
+- **git remote add origin** is used to detail the URL of the remote repository you're going to use for your project. In case you'd like to change it at some point, you can do it by using the command **git remote set-url origin**.
+
+- **git remote -v** lets you list the current remote repository you're using.
+
+- **git branch** lists all the available branches on your repo and tells you what branch you're currently on. If you want to create a new branch, you just have to add the new branch name as a parameter like **git branch \<branch name>.
+
+- **git merge** merges \(combines) the branch you're currently in with another. Keep in mind the chagnes will be incorporated only to the branch you're currently in, not to the other one.
+
+- **--help** flag will show you information about a given command, exactly the same way it works with bash. Use as a parameter with other commands.
+\(ex: git diff --help)
