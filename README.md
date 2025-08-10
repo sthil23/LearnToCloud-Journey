@@ -1,6 +1,18 @@
-# LearnToCloud-Journey
-This is my hands-on learning journey through the LearnToCloud guide.
-I am an up-and-coming cloud engineer who has been very devoted to the self-taught approach making my way into the IT/Cloud field. My eagerness to learn and grow within this field only gets stronger the more I progress and grasp onto new concepts. As I continue to apply my knowledge into projects/labs my line of understanding becomes less and less blurry.
-I will be tracking my growth through applied learning and daily notes on my way to completing this guide. Throughout this guide, various concepts will be covered spanning from the basics of Python to the fundamentals of DevOps and much much more. Stay tuned.
+# LearnToCloud Journey
 
-Welcome to the Journey!
+This repository documents my hands-on learning path through [LearnToCloud](https://learntocloud.guide) roadmap. It includes daily notes, project work, troubleshooting logs, and coding samples.
+
+## Goals
+
+- Become proficient in Azure and DevOps tools
+- Build and document cloud projects
+- Gain real-world experience that translate to job-ready skills
+
+## Structure
+
+- **Phase1_Linux&Bash** -> Version Control, IaC Basics, Linux Basics
+- **Phase2_Programming** -> Python Basics, APIs, Databases
+- **Phase3_Cloud-Platform** -> VM/Compute Services, IAM, Cloud Networking
+- **Phase4_DevOps-Fundamentals** -> Containers, CI/CD, Kubernetes
+- **Phase5_Cloud-Security** -> Cloud Security, Data Security, Network Security, Compliance
+- **code_samples** -> Commands, Scripts, Configs, Templates
