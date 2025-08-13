@@ -1,4 +1,5 @@
 # Git Commands
+
 - **git init** will create a new local repository for you.
 
 - **git add** adds one or more files to staging. You can either detail a specific file to add to staging or add all changes files by typing **git add**.
